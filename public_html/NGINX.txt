@@ -1,0 +1,5 @@
+# nginx configuration
+
+location / {
+  rewrite ^(.*)$ /index.php?request=$1 break;
+}

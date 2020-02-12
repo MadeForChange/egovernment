@@ -1,0 +1,358 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202002 will be lost/reset.
+# Last config file used to build this data file was /home2/pleasezo/tmp/awstats/ssl/awstats.pleasezoom.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2700                
+POS_VISITOR 7203                
+POS_DAY 8561                
+POS_DOMAIN 3375                
+POS_LOGIN 3689                
+POS_ROBOT 3844                
+POS_WORMS 4153                
+POS_EMAILSENDER 4284                
+POS_EMAILRECEIVER 4427                
+POS_SESSION 8841                
+POS_SIDER 9047                
+POS_FILETYPES 4562                
+POS_DOWNLOADS 4859                
+POS_OS 4926                
+POS_BROWSER 5121                
+POS_SCREENSIZE 5512                
+POS_UNKNOWNREFERER 5586                
+POS_UNKNOWNREFERERBROWSER 5873                
+POS_ORIGIN 6012                
+POS_SEREFERRALS 6153                
+POS_PAGEREFS 6321                
+POS_SEARCHWORDS 6560                
+POS_KEYWORDS 6712                
+POS_MISC 2362                
+POS_ERRORS 6771                
+POS_CLUSTER 3545                
+POS_SIDER_404 6894                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200212090457 536 151401 15698452039088
+FirstTime 20200201033421
+LastTime 20200212082910
+LastUpdate 20200212141841 536 0 536 0 0
+TotalVisits 47                  
+TotalUnique 30                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 31                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 211 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 23 23 301651
+3 1 1 11735 4 9 51611
+4 1 2 5497 3 6 20150
+5 0 0 0 3 4 48751
+6 2 3 69383 2 3 2115
+7 150 237 1344031 138 252 333872
+8 301 405 1821686 548 684 620043
+9 107 145 1427136 271 342 332714
+10 13 49 425645 7 52 70710
+11 3 3 77517 1 1 0
+12 121 149 267462 106 139 144642
+13 0 0 0 1 1 705
+14 0 0 0 1 1 36676
+15 0 0 0 1 1 705
+16 0 0 0 0 0 0
+17 2 2 17927 4 7 56125
+18 13 49 434486 9 55 81821
+19 48 84 1885956 30 88 163192
+20 32 38 426392 19 66 161863
+21 17 17 257412 23 33 53058
+22 0 0 0 5 9 53881
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 744 1108 7650073
+fr 34 34 514849
+in 22 30 107392
+ca 8 9 170504
+vn 1 1 9383
+gb 1 1 8321
+id 1 1 11743
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Googlebot/ 39 211843 20200212083222 20
+(firefox/)([0-9]\.|[0-1][0]\.) 10 296716 20200202024408 0
+bot[\s_+:,\.\;\/\\-] 3 110028 20200211175605 0
+unknown 1 12723 20200212073332 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+map 7 25986 0 0
+php 548 202266 0 0
+png 34 888345 0 0
+css 157 814181 0 0
+woff 1 8444 0 0
+js 140 754507 0 0
+html 217 2733521 0 0
+ttf 1 13356 0 0
+gif 7 55489 0 0
+xml 1 12724 0 0
+txt 1 12720 0 0
+Unknown 36 245397 0 0
+jpg 34 2705329 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/ads.txt 1 0 12720
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+macosx9 2 2
+winxp 2 0
+linuxandroid 42 15
+macosx10 4 4
+winlong 2 2
+ios_ipad 2 2
+win10 1076 733
+win7 36 36
+Unknown 14 13
+linux 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+chrome47.0.2526.80 1 1
+safari7.0 2 2
+Unknown 4 4
+chrome34.0.1847.131 1 1
+msie11.0 12 12
+safari8.0 1 1
+chrome35.0.1916.153 2 2
+chrome79.0.3945.136 15 7
+chrome45.0.2454.94 1 1
+opera12.16 1 1
+chrome42.0.2311.90 17 17
+firefox62.0 2 2
+msie9.0 2 2
+chrome79.0.3945.130 1100 738
+chrome36.0.1985.125 5 5
+mozilla 10 9
+firefox11.0 2 0
+firefox31.0 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+AddThis.com_(http://support.addthis.com/) 20200212082910
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200212073845
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200203115903
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+AddThis.com_(http://support.addthis.com/) 20200212082910
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 121 124
+From1 0 0
+From2 17 17
+From3 2 2
+From4 671 1041
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com_hk 17 17
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://webmail.pleasezoom.in/wp-login.php 1 1
+http://cpanel.pleasezoom.in/wp-login.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+301 1386 977130
+302 112 2902
+401 1 52
+500 13 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 31
+148.64.4.24 254 290 415461 20200211100703
+148.64.5.118 175 241 1408151 20200212081700 20200212074146 /welcome/
+148.64.5.189 120 148 230786 20200210124617
+148.64.4.209 45 111 757532 20200204200631
+148.64.4.93 44 82 559042 20200210093144
+148.64.4.201 25 92 1357333 20200203105746
+148.64.5.49 20 60 497798 20200205083516
+148.64.4.81 18 24 796908 20200201205746
+46.105.99.163 17 17 257412 20200205211012
+176.31.105.112 17 17 257437 20200207202724
+148.64.4.212 15 24 199552 20200204093544
+148.64.5.244 14 14 502028 20200212074145
+106.210.41.41 12 12 5020 20200212074446
+142.4.218.236 7 8 166351 20200212073344
+129.146.158.17 4 4 37795 20200212082910 20200212082910 /egovernment/
+148.64.5.17 3 9 682996 20200202194708
+106.223.55.19 3 3 360 20200211080851
+110.225.92.0 3 9 74477 20200210173938
+103.219.143.156 2 3 13735 20200205043258
+223.225.80.159 2 3 13800 20200204084821
+148.64.5.113 2 2 14302 20200205191716
+103.247.217.145 1 1 11743 20200204063024
+42.114.148.195 1 1 9383 20200210063225
+38.131.154.90 1 1 11735 20200201033421
+192.241.132.135 1 1 11743 20200204175920
+51.77.246.205 1 1 8321 20200212073845
+165.22.37.50 1 1 36688 20200203115903
+144.168.162.250 1 1 36688 20200203194637
+198.27.80.123 1 1 4153 20200205114426
+157.245.10.65 1 1 36676 20200203110422
+66.249.84.122 0 2 56859 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20200201 20 27 893576 3
+20200202 5 11 727910 3
+20200203 67 188 2141090 8
+20200204 30 52 476722 7
+20200205 43 84 852514 7
+20200207 17 17 257437 1
+20200210 172 244 987374 8
+20200211 260 297 501433 4
+20200212 197 264 1634209 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 5
+1h+ 5
+15mn-30mn 1
+0s-30s 28
+2mn-5mn 1
+30s-2mn 4
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 30
+/public/includes/one_ajax.php 535 64200 1 2
+/egovernment/ 74 924219 17 12
+/welcome/ 48 313543 3 5
+/login/ 36 214598 1 3
+/index/ 26 194462 0 0
+/ 16 561899 16 14
+/thankyou 11 48671 1 0
+/donate 9 14572 1 3
+/wp-admin/plugin-install.php 8 102128 0 0
+/login 6 35660 0 0
+/thankyou/ 5 34445 0 0
+/wp-login.php 5 35938 5 3
+/admin/ 5 451841 0 0
+/public/css/bootstrap.min.css.map 4 14862 0 0
+/public/css/bootstrap.css.map 3 11124 1 0
+/admin/&section=topics&page=2 2 90234 0 0
+/wp-json/wp/v2/users 2 25494 0 2
+/users/view/1001/ 2 11864 0 0
+/users/view/16497/ 2 10814 0 0
+/welcome 2 12136 1 1
+/post/read/regional-concentration 1 5790 0 0
+/public/plugins/summernote/font/summernote.ttf 1 13356 0 0
+/2welcome/ 1 3704 0 0
+/logiN 1 3708 0 0
+/public/plugins/summernote/font/summernote.woff 1 8444 0 0
+//rss/feed/db 1 1569 0 0
+/users/view/1/ 1 5760 0 0
+/sitemap.xml 1 12724 0 0
+/users/view/1023/ 1 6372 0 0
+/post/read/apathy-of-honest-and-educated-people-towards-politics 1 7563 0 0
+END_SIDER

@@ -1,0 +1,578 @@
+# Webalizer V2.23-08 Incremental Data - 02/12/2020 09:04:53
+2020 2 12 9 4 53
+990 582 82 69 6 22 71315416 100 77 0
+8 6 260 1 12
+352 186 33666228 25 7 6
+108 52 10022778 11 9 5
+131 90 7052425 9 7 6
+89 61 3617338 16 19 12
+51 36 2848520 13 10 9
+3 3 14916 3 2 2
+8 5 22516 6 4 4
+37 31 248555 8 3 3
+24 23 276705 3 1 1
+58 28 3420740 11 16 10
+18 11 65613 10 12 9
+111 56 10059082 8 10 10
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 9535 1
+0 0 0 0
+10 5 27089 8
+16 9 34779 7
+3 3 38198 0
+5 4 33331 1
+18 14 79827 3
+101 59 6831059 9
+150 85 10281634 26
+48 30 3434260 8
+3 3 22332 1
+21 18 122169 2
+19 16 166218 1
+16 15 91143 0
+17 15 87732 2
+26 23 161240 4
+5 3 404450 1
+3 2 1241427 0
+6 5 76784 0
+216 108 21101419 11
+263 131 26754096 4
+2 1 4853 1
+16 8 32483 8
+24 23 279358 2
+0
+0
+0
+582
+0
+0
+0
+0
+0
+0
+0
+375
+32
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+# -urls- 
+/old/wp-login.php
+0 1 0 12746 0 0
+/public/assets/images/positive/future.jpg
+0 9 0 37445 0 0
+/public/assets/images/rape-in-india.jpg
+0 9 0 37444 0 0
+/:2083
+0 2 33860064 17038 2 0
+/post/read/regional-concentration
+0 2 0 13078 1 1
+/index/
+0 2 0 18543 5 3
+/public/assets/images/positive/flag-all-min.jpg
+0 21 0 2001426 0 0
+/2welcome/
+0 2 0 8284 1 1
+/public/assets/images/indian-railways.jpg
+0 9 0 37462 0 0
+/public/assets/images/cows-eating-garbage.jpg
+0 9 0 37501 0 0
+/welcome
+0 1 0 12731 0 0
+/wpmu/wp-login.php
+0 1 0 12747 0 0
+/wp-config.php
+0 1 0 12742 0 0
+/thankyou
+0 3 0 16143 3 1
+/info/wp-login.php
+0 1 0 12747 0 0
+/wordpress/wp-login.php
+0 1 0 12752 0 0
+/public/assets/images/negative/dog-car-accident-min.jpg
+0 21 0 25967970 0 0
+/public/assets/images/negative/beggars-min.jpg
+0 21 0 452025 0 0
+/news/wp-login.php
+0 1 0 12747 0 0
+/sitio/wp-login.php
+0 1 0 12748 0 0
+/welcome/
+0 7 0 62982 4 1
+/public/assets/images/negative/cows-eating-garbage-min.jpg
+0 20 0 1675780 0 0
+/.aws/credentials
+0 3 0 38235 0 0
+/public/assets/images/positive/smile2-min.jpg
+0 20 0 1813600 0 0
+/public/assets/images/negative/water-problem-min.jpg
+0 21 0 1746087 0 0
+/public/assets/images/negative/Girls-Eve-Teasing-2-min.jpg
+0 20 0 711820 0 0
+/welcome/favicon.ico
+0 2 0 8298 0 0
+/public/assets/images/rainy-roads-cities.jpg
+0 9 0 37478 0 0
+/favicon.ico
+0 1 0 4139 0 0
+/public/assets/images/positive/flag-all.jpg
+0 9 0 37495 0 0
+/public/assets/images/positive/smile2.jpg
+0 9 0 37468 0 0
+/.env
+0 14 0 178258 0 0
+/public/assets/images/negative/rape-in-india-min.jpg
+0 20 0 1491800 0 0
+/demo/wp-login.php
+0 1 0 12747 0 0
+/web/wp-login.php
+0 1 0 12746 0 0
+/wp/wp-login.php
+0 1 0 12745 0 0
+/post/read/apathy-of-honest-and-educated-people-towards-politics
+0 1 0 6562 1 0
+/home/wp-login.php
+0 1 0 12747 0 0
+/public/assets/images/positive/smile1.jpg
+0 9 0 37487 0 0
+/public/assets/images/positive/Smile.webp
+0 28 0 660240 0 0
+/thankyou/
+0 2 0 10762 2 1
+/login/favicon.ico
+0 1 0 4151 0 0
+/english/wp-login.php
+0 1 0 12750 0 0
+/login
+0 1 0 25282 1 0
+/users/view/1/
+0 2 0 10896 2 1
+/wp-login.php
+0 14 0 75328 0 0
+/press/wp-login.php
+0 1 0 12748 0 0
+/public/assets/images/positive/future-cities.jpg
+0 9 0 37505 0 0
+/egovernment/
+0 4 0 36883 4 0
+/public/assets/images/public/goal.jpg
+0 4 0 16630 0 0
+/sites/wp-login.php
+0 1 0 12748 0 0
+/public/assets/images/positive/women-leading-min.jpeg
+0 21 0 17675091 0 0
+/new/wp-login.php
+0 1 0 12746 0 0
+/blogs/wp-login.php
+0 1 0 12748 0 0
+/public/assets/images/negative/indian-railways-min.jpg
+0 20 0 1321420 0 0
+/public/assets/images/bus-fire.jpg
+0 9 0 37424 0 0
+/public/assets/images/positive/future-india-min.jpg
+0 20 0 3095540 0 0
+/public/assets/images/Girls-Eve-Teasing-2.jpg
+0 9 0 37504 0 0
+/blog/wp-login.php
+0 1 0 12747 0 0
+/robots.txt
+0 49 0 199861 0 0
+/en/wp-login.php
+0 1 0 12745 0 0
+/public/assets/images/mission-min.jpg
+0 19 0 408253 0 0
+/public/assets/images/positive/smile1-min.jpg
+0 21 0 953316 0 0
+/login/
+0 2 0 31987 1 2
+/public/assets/images/negative/rainy-roads-cities-min.jpg
+0 21 0 1267749 0 0
+/public/assets/images/negative/bus-fire-min.jpg
+0 21 0 8308125 0 0
+/portal/wp-login.php
+0 1 0 12749 0 0
+/site/wp-login.php
+0 1 0 12747 0 0
+/public/assets/images/goal.jpg
+0 9 0 37389 0 0
+# End Of Table - urls
+# -sites- (monthly)
+51-15-189-102.rev.poneytelecom.eu
+0 1 1 4148 0 0
+-
+spider-4.lipperhey.com
+0 1 0 0 1 1581492809
+-
+mail.coralme.com
+0 14 13 74260 0 0
+-
+148.64.4.212
+0 7 6 30158 1 1580803428
+/welcome/
+148.64.4.81
+0 324 163 33409683 1 1580590451
+-
+ec2-13-236-80-225.ap-southeast-2.compute.amazonaws.com
+0 1 1 12732 0 0
+-
+148.64.4.201
+0 64 32 6682908 0 0
+-
+116.206.220.132
+0 14 13 74213 0 0
+-
+server69.hml.grapeshot.co.uk
+0 2 2 9535 1 1581036625
+/thankyou
+server117.hml.grapeshot.co.uk
+0 1 0 0 1 1581433507
+/index/
+43.224.159.9
+0 14 13 74223 0 0
+-
+kube-09.dataprovider.com
+0 33 16 3341454 1 1581493125
+-
+axntech-dynamic-156.143.219.103.axntechnologies.in
+0 32 15 3317874 1 1580670243
+-
+server114.hml.grapeshot.co.uk
+0 2 2 12923 1 1580570637
+/egovernment/
+crawl-66-249-64-231.googlebot.com
+0 8 4 74339 4 1581391094
+-
+148.64.4.93
+0 3 1 7708 1 1581322029
+-
+crawl-66-249-64-171.googlebot.com
+0 12 5 23462 2 1580872688
+-
+142.93.46.172
+0 1 1 4158 0 0
+-
+server120.hml.grapeshot.co.uk
+0 2 2 10693 1 1581474373
+/post/read/regional-concentration
+123.231.124.236
+0 14 13 74258 0 0
+-
+crawl-66-249-64-167.googlebot.com
+0 7 4 16939 1 1581115151
+-
+ns392545.ip-176-31-105.eu
+0 1 1 4157 0 0
+-
+ec2-18-195-88-217.eu-central-1.compute.amazonaws.com
+0 1 1 12732 0 0
+-
+ec2-184-72-37-34.us-west-1.compute.amazonaws.com
+0 1 1 12733 0 0
+-
+server.yourserver.gr
+0 1 1 4154 0 0
+-
+42.114.148.195
+0 2 0 705 1 1581316341
+-
+crawl-66-249-64-229.googlebot.com
+0 11 8 533062 3 1581374355
+-
+server71.hml.grapeshot.co.uk
+0 1 1 6697 1 1580807749
+/welcome/
+3.server.ipxzone.net
+0 1 1 4152 0 0
+-
+ec2-15-188-75-193.eu-west-3.compute.amazonaws.com
+0 1 1 12742 0 0
+-
+120.89.79.117
+0 14 13 74218 0 0
+-
+104.236.100.42
+0 1 1 4157 0 0
+-
+ec2-52-67-97-241.sa-east-1.compute.amazonaws.com
+0 1 1 12733 0 0
+-
+server64.hml.grapeshot.co.uk
+0 1 1 9383 1 1581433510
+/egovernment/
+148.64.4.24
+0 1 1 11540 1 1581409504
+/index/
+ec2-35-180-156-200.eu-west-3.compute.amazonaws.com
+0 1 1 12733 0 0
+-
+209.17.96.130.rdns.cloudsystemnetworks.com
+0 1 0 705 1 1580853212
+-
+185.39.10.69
+0 22 21 268390 1 1581289211
+-
+server125.hml.grapeshot.co.uk
+0 1 1 5381 1 1580955951
+/thankyou/
+crawl-66-249-64-233.googlebot.com
+0 15 12 2251438 3 1581477180
+-
+ec2-3-104-1-75.ap-southeast-2.compute.amazonaws.com
+0 1 1 12745 0 0
+-
+110.225.92.0
+0 34 16 3342159 1 1581322648
+-
+129.146.158.17
+0 26 21 103591 10 1581498125
+-
+crawl-66-249-64-169.googlebot.com
+0 9 4 18343 3 1581374354
+-
+1-39-22-30.live.vodafone.in
+0 14 13 74252 0 0
+-
+103.82.98.254
+0 14 13 74244 0 0
+-
+server118.hml.grapeshot.co.uk
+0 1 0 0 1 1580825220
+-
+209.17.97.90.rdns.cloudsystemnetworks.com
+0 1 0 705 1 1581489125
+-
+ec2-3-0-163-208.ap-southeast-1.compute.amazonaws.com
+0 1 0 705 1 1581420570
+-
+ec2-52-66-252-54.ap-south-1.compute.amazonaws.com
+0 1 1 12733 0 0
+-
+server68.hml.grapeshot.co.uk
+0 2 2 8295 1 1580804826
+/2welcome/
+server73.hml.grapeshot.co.uk
+0 1 1 9353 1 1580825221
+/egovernment/
+server66.hml.grapeshot.co.uk
+0 2 2 9605 1 1581387778
+/users/view/1/
+jp32.mixhost.jp
+0 1 1 4157 0 0
+-
+ec2-18-231-142-90.sa-east-1.compute.amazonaws.com
+0 1 1 12733 0 0
+-
+149.129.74.9
+0 1 1 4158 0 0
+-
+ec2-54-169-200-189.ap-southeast-1.compute.amazonaws.com
+0 1 1 12732 0 0
+-
+ns382403.ip-46-105-99.eu
+0 1 1 4148 0 0
+-
+ip-89-234-68-77.broadband.digiweb.ie
+0 2 0 705 1 1580611124
+-
+server113.hml.grapeshot.co.uk
+0 1 1 5381 1 1581004577
+/thankyou
+209.17.96.66.rdns.cloudsystemnetworks.com
+0 1 0 705 1 1581146510
+-
+148.64.5.17
+0 64 32 6682908 0 0
+-
+148.64.4.209
+0 36 18 3353015 2 1580845641
+-
+103.127.95.126
+0 14 13 74255 0 0
+-
+148.64.5.244
+0 28 6 127605 17 1581498292
+/:2083
+ec2-3-122-243-160.eu-central-1.compute.amazonaws.com
+0 1 1 12733 0 0
+-
+ec2-13-48-124-177.eu-north-1.compute.amazonaws.com
+0 1 1 12745 0 0
+-
+148.64.5.49
+0 2 0 705 1 1580891540
+-
+ip-89-234-68-109.broadband.digiweb.ie
+0 3 0 705 1 1580611381
+-
+ec2-3-120-27-205.eu-central-1.compute.amazonaws.com
+0 1 1 12733 0 0
+-
+ec2-34-241-66-197.eu-west-1.compute.amazonaws.com
+0 1 1 12745 0 0
+-
+ec2-18-197-226-211.eu-central-1.compute.amazonaws.com
+0 1 1 12732 0 0
+-
+server74.hml.grapeshot.co.uk
+0 2 2 10968 1 1580947079
+/welcome/
+ns504210.ip-198-100-146.net
+0 1 1 4156 0 0
+-
+209.17.96.162.rdns.cloudsystemnetworks.com
+0 1 0 705 1 1581094298
+-
+ec2-52-67-173-61.sa-east-1.compute.amazonaws.com
+0 1 1 12733 0 0
+-
+148.64.5.118
+0 64 33 6667036 1 1581498293
+/:2083
+ns524016.ip-198-27-80.net
+0 1 1 4152 0 0
+-
+ec2-35-181-6-188.eu-west-3.compute.amazonaws.com
+0 1 1 12733 0 0
+-
+163-172-45-60.rev.poneytelecom.eu
+0 1 1 4146 0 0
+-
+ec2-13-48-193-67.eu-north-1.compute.amazonaws.com
+0 1 1 12733 0 0
+-
+abts-north-static-205.101.176.122.airtelbroadband.in
+0 14 13 74244 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+spider-4.lipperhey.com
+0 1 0 0 1 1581492809
+-
+kube-09.dataprovider.com
+0 33 16 3341454 1 1581493125
+-
+server120.hml.grapeshot.co.uk
+0 2 2 10693 1 1581474373
+/post/read/regional-concentration
+crawl-66-249-64-233.googlebot.com
+0 2 1 3708 1 1581477180
+-
+129.146.158.17
+0 4 2 8405 2 1581498125
+-
+209.17.97.90.rdns.cloudsystemnetworks.com
+0 1 0 705 1 1581489125
+-
+148.64.5.244
+0 4 2 27081 2 1581498292
+/:2083
+148.64.5.118
+0 64 33 6667036 1 1581498293
+/:2083
+# End Of Table - sites (daily)
+# -referrers- 
+http://pleasezoom.in
+0 4
+http://www.pleasezoom.in/login/
+0 1
+- (Direct Request)
+0 978
+http://www.pleasezoom.in
+0 1
+http://pleasezoom.in/welcome/
+0 3
+http://www.google.com.hk
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.8) Gecko/20100721 Firefox/3.6.8
+0 5
+Mozilla/5.0 (compatible; GrapeshotCrawler/2.0; +http://www.grapeshot.co.uk/crawler.php)
+0 19
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 14
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 14
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36
+0 14
+Mozilla/5.0 (compatible; Dataprovider.com)
+0 34
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 42
+Opera/9.80 (Windows NT 10.0; WOW64); U) Presto/2.12.388 Version/12.16
+0 2
+Mozilla/5.0 (Linux; Android 8.0.0; Moto Z2 Play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Mobile Safari/53
+0 66
+Googlebot-Image/1.0
+0 18
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 14
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 9
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 14
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.1
+0 14
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 627
+AddThis.com (http://support.addthis.com/)
+0 26
+curl/7.47.0
+0 18
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 22
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

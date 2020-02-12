@@ -1,0 +1,3 @@
+[/home2/pleasezo/public_html]
+htaccess_list = /home2/pleasezo/public_html/models/.htaccess,/home2/pleasezo/public_html/.htaccess,/home2/pleasezo/public_html/library/.htaccess,/home2/pleasezo/public_html/views/.htaccess,/home2/pleasezo/public_html/controllers/.htaccess
+
